@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HawtBeagle, I am so into coding.
+- 👋 Hi, I’m @HawtBeagle, I am so into development.
 - 👀 I’m interested in building projects,collaborating with people and constantly learning new stuff.
-- 🌱 I’m currently learning full stack web development using the MERN stack.
+- 🌱 I’m currently learning blockchain development.
 - 💞️ I’m looking to collaborate on team and open source projects.
 - 📫 How to reach me You can reach me via bhanuprakash0799@gmail.com
 
