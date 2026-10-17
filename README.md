@@ -10,6 +10,15 @@ I build backend services with Java and Spring Boot. My work spans cart and check
 
 I share what I test, what breaks, and what I learn as the project develops.
 
+## Current agentic AI learning
+
+- **Model contracts:** typed requests and responses, provider interfaces, structured outputs, token usage and finish reasons.
+- **Tools and workflows:** tool calling, action validation, tool execution and workflow routing.
+- **Retrieval:** chunking strategies, Ollama embeddings, PostgreSQL/pgvector and a FastAPI retrieval path.
+- **Evaluation:** checking source chunks, similarity scores, cross-policy relevance and no-match behavior on synthetic policy documents.
+
+My local learning work is ahead of the public repository. The published code currently contains the shared LLM contracts and provider interface; I am sharing the remaining work incrementally.
+
 ## Engineering background
 
 - Contributed to migrating retail cart workflows from Node.js to Java/Spring Boot.
@@ -21,7 +30,7 @@ I share what I test, what breaks, and what I learn as the project develops.
 
 **Backend:** Java, Spring Boot, REST APIs, Kafka, Redis, SQL
 
-**Applied AI learning:** Python, Ollama, embeddings, retrieval, PostgreSQL/pgvector
+**Applied AI learning:** Python, FastAPI, Pydantic, Ollama, LLM tool use, embeddings, PostgreSQL/pgvector
 
 **Engineering practice:** Git, Docker, Grafana, automated testing, API contracts
 
